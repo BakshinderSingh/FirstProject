@@ -1,0 +1,11 @@
+C:\Users\almighty\source\repos\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.deps.json
+C:\Users\almighty\source\repos\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.runtimeconfig.json
+C:\Users\almighty\source\repos\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.runtimeconfig.dev.json
+C:\Users\almighty\source\repos\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.dll
+C:\Users\almighty\source\repos\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.pdb
+C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.AssemblyInfoInputs.cache
+C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.AssemblyInfo.cs
+C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.dll
+C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.pdb
+C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.csprojAssemblyReference.cache
