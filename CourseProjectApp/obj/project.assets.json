@@ -13251,23 +13251,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\almighty\\.nuget\\packages\\": {},
+    "C:\\Users\\baksh\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\almighty\\source\\repos\\CourseProjectApp\\CourseProjectApp.csproj",
+      "projectUniqueName": "E:\\FirstProject\\CourseProjectApp\\CourseProjectApp.csproj",
       "projectName": "CourseProjectApp",
-      "projectPath": "C:\\Users\\almighty\\source\\repos\\CourseProjectApp\\CourseProjectApp.csproj",
-      "packagesPath": "C:\\Users\\almighty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\almighty\\source\\repos\\CourseProjectApp\\obj\\",
+      "projectPath": "E:\\FirstProject\\CourseProjectApp\\CourseProjectApp.csproj",
+      "packagesPath": "C:\\Users\\baksh\\.nuget\\packages\\",
+      "outputPath": "E:\\FirstProject\\CourseProjectApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\almighty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\baksh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

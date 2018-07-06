@@ -9,3 +9,14 @@ C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CoursePr
 C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.dll
 C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.pdb
 C:\Users\almighty\source\repos\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.csprojAssemblyReference.cache
+E:\FirstProject\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.deps.json
+E:\FirstProject\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.runtimeconfig.json
+E:\FirstProject\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.runtimeconfig.dev.json
+E:\FirstProject\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.dll
+E:\FirstProject\CourseProjectApp\bin\Debug\netcoreapp2.0\CourseProjectApp.pdb
+E:\FirstProject\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.csprojAssemblyReference.cache
+E:\FirstProject\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+E:\FirstProject\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.AssemblyInfoInputs.cache
+E:\FirstProject\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.AssemblyInfo.cs
+E:\FirstProject\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.dll
+E:\FirstProject\CourseProjectApp\obj\Debug\netcoreapp2.0\CourseProjectApp.pdb
